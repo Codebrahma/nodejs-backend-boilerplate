@@ -21,7 +21,7 @@
     "express": "^4.16.3",
     "express-certbot-endpoint": "^1.0.0",
     "express-winston": "^3.0.0",
-    "googleapis": "^27.0.0",
+    "googleapis": "^39.1.0",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.21",
     "mailgun-js": "^0.20.0",
